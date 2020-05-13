@@ -3,6 +3,8 @@
 /src/main/resources/vhr.sql
 mvnw
 mvnw.cmd
+.gradle
+logs/
 
 ### STS ###
 .apt_generated
